@@ -1,2 +1,2 @@
-# Math_Software_py
+# Mathematical software
 Mathematical software course with Python programming language
