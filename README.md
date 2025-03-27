@@ -42,6 +42,14 @@ MATH_SOFTWARE_PY/
 ├── 05_matplotlib_visualization.ipynb
 ├── 06_linear_algebra.ipynb
 ├── 07_differential_equations.ipynb
+├── assignments/
+│   ├── assignment_01_intro.md
+│   ├── assignment_02_numpy.md
+│   ├── assignment_03_scipy_optimization.md
+│   ├── assignment_04_sympy.md
+│   ├── assignment_05_matplotlib.md
+│   ├── assignment_06_linear_algebra.md
+│   └── assignment_07_differential_equations.md
 ├── LICENSE
 └── README.md
 ```
