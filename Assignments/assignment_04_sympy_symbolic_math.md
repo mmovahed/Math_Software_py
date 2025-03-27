@@ -8,7 +8,7 @@
 
 1. **Define Expressions**  
    - Define a symbolic expression \( $f(x) = x^2 + 2x + 1$ \)
-   - Expand \( (x + 1)^3 \) and factor \( $x^2 + 5x + 6$ \)
+   - Expand \( $(x + 1)^3$ \) and factor \( $x^2 + 5x + 6$ \)
 
 2. **Simplify and Substitute**  
    - Simplify \( $\sin(x)^2 + \cos(x)^2$ \)
