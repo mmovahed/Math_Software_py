@@ -21,8 +21,8 @@
 4. **Equation Solving**  
    - Solve \( $x^2 - 4 = 0$ \)
    - Solve the system:
-     \[ $x + y = 3$ \\
-        $x - y = 1$ \]
+     \[ $x + y = 3 \\\;\;
+        x - y = 1$ \]
 
 ## 🌟 Optional Challenge
 - Compute and display the Taylor series expansion of \( $\sin(x)$ \) around \( $x = 0$ \) up to 6 terms.
