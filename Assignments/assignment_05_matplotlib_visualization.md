@@ -7,11 +7,11 @@
 ## ✅ Tasks
 
 1. **Basic Line Plot**  
-   - Plot the function \( f(x) = \sin(x) \) in the interval [0, 2\pi].
+   - Plot the function \( $f(x) = \sin(x)$ \) in the interval [0, $2\pi$].
    - Label the axes and add a grid.
 
 2. **Multiple Lines**  
-   - On the same graph, plot \( \cos(x) \) and \( \tan(x) \) with different line styles.
+   - On the same graph, plot \( $\cos(x)$ \) and \( $\tan(x)$ \) with different line styles.
    - Add a legend.
 
 3. **Scatter Plot**  
