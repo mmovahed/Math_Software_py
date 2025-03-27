@@ -19,7 +19,7 @@
 
 3. **System of ODEs**  
    - Solve the system:
-     \[ $\frac{dx}{dt} = x - y \;\;
+     \[ $\frac{dx}{dt} = x - y \\\;\\\;
         \frac{dy}{dt} = x + y$ \]
    - Use initial condition \( $x(0) = 1, y(0) = 0$ \), and plot both variables.
 
